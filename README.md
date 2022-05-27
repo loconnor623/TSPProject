@@ -1,2 +1,2 @@
 # TravellingSalesmanProblem
-A group project for a Data Structures class, showing multiple different solutions to the Travelling Salesman Problem.
+A group project for a Data Structures course, showing multiple different approaches to the Travelling Salesman Problem.
